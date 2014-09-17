@@ -21,3 +21,4 @@
 - [Alejandro Cabrera](https://www.gittip.com/cabrera/)
 - [PJ Souders](http://twitter.com/axoplasm)
 - [Harlan Kellaway] (http://twitter.com/HarlanKellaway)
+- [Smitty Buckler] (http://twitter.com/smitzter)
